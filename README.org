@@ -1,0 +1,4 @@
+* Symlink from /usr/local/etc/motion
+> ls -l /usr/local/etc
+total 0
+lrwxrwxrwx 1 root staff 11 Aug 12 19:09 motion -> /etc/motion
